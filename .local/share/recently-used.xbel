@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/cv/Downloads/cachyos-keyring-2-1-any.pkg.tar.zst" added="2021-12-25T06:04:34.155246Z" modified="2021-12-25T06:04:34.155249Z" visited="2021-12-25T06:04:34.155247Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zstd-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-25T06:04:34.155247Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/aller.zip" added="2021-12-25T08:26:35.820285Z" modified="2021-12-25T08:26:35.820289Z" visited="2021-12-25T08:26:35.820286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-25T08:26:35.820287Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/TUF-GAMING-X570-PLUS-WIFI-ASUS-4022.ZIP" added="2021-12-26T17:55:46.880031Z" modified="2021-12-26T17:55:46.880038Z" visited="2021-12-26T17:55:46.880032Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-26T17:55:46.880035Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/E15829_PRIME_PRO_TUF_GAMING_X570_Series_BIOS_EM_WEB.pdf" added="2021-12-26T17:56:02.384286Z" modified="2021-12-26T17:56:02.384294Z" visited="2021-12-26T17:56:02.384287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-26T17:56:02.384290Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/E15236_TUF_GAMING_X570-PLUS_WI-FI_UM_WEB_060319.pdf" added="2021-12-26T17:56:28.919038Z" modified="2021-12-26T17:56:28.919046Z" visited="2021-12-26T17:56:28.919039Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-26T17:56:28.919042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/jellyfin-android-v2.4.2-proprietary-release.apk" added="2021-12-27T21:37:13.515935Z" modified="2021-12-27T21:44:27.218181Z" visited="2021-12-27T21:37:13.515936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-27T21:44:27.218179Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/immortalwrt-rockchip-armv8-friendlyarm_nanopi-r2s-squashfs-sysupgrade.img.gz" added="2021-12-29T20:01:48.376121Z" modified="2022-01-01T07:26:20.805237Z" visited="2021-12-29T20:01:48.376122Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-01T07:26:20.805235Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/r2s-slim.img.gz" added="2021-12-29T20:05:18.251101Z" modified="2021-12-29T20:05:18.251106Z" visited="2021-12-29T20:05:18.251102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-29T20:05:18.251104Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/r2s-slim.img.gz.md5" added="2021-12-29T20:05:30.597240Z" modified="2021-12-29T20:05:30.597243Z" visited="2021-12-29T20:05:30.597240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-29T20:05:30.597241Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/r2s-slim.img.md5" added="2021-12-29T20:05:40.667846Z" modified="2021-12-29T20:05:40.667851Z" visited="2021-12-29T20:05:40.667846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-29T20:05:40.667848Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/uBlock0_1.40.2.chromium.zip" added="2021-12-30T08:33:21.005348Z" modified="2021-12-30T08:33:21.005350Z" visited="2021-12-30T08:33:21.005348Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-12-30T08:33:21.005349Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.config/chromium/ublock" added="2021-12-30T08:36:53.584687Z" modified="2021-12-30T08:36:53.584690Z" visited="2021-12-30T08:36:53.584688Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-12-30T08:36:53.584689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/my-ublock-backup_2021-12-30_08.37.31.txt" added="2021-12-30T08:37:39.829371Z" modified="2021-12-30T08:38:00.267699Z" visited="2021-12-30T08:37:39.829372Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-30T08:37:39.829373Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-12-30T08:38:00.267697Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.config/chromium/vimium" added="2021-12-30T09:19:32.926961Z" modified="2021-12-30T09:19:32.926964Z" visited="2021-12-30T09:19:32.926961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-12-30T09:19:32.926962Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Audio/Ardour" added="2021-12-30T12:06:56.314004Z" modified="2021-12-30T12:06:56.314008Z" visited="2021-12-30T12:06:56.314005Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Ardour" exec="&apos;ardour-6.9.0 %u&apos;" modified="2021-12-30T12:06:56.314006Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.config/mpv/ff2mpv.py" added="2021-12-31T12:07:40.118494Z" modified="2021-12-31T12:07:40.118497Z" visited="2021-12-31T12:07:40.118494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T12:07:40.118495Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/Makefile" added="2021-12-31T15:45:43.107003Z" modified="2021-12-31T15:45:43.107007Z" visited="2021-12-31T15:45:43.107004Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:45:43.107005Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/FUNDING.yml" added="2021-12-31T15:45:53.934443Z" modified="2021-12-31T15:45:53.934448Z" visited="2021-12-31T15:45:53.934444Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:45:53.934446Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/config.mk" added="2021-12-31T15:46:02.840666Z" modified="2021-12-31T15:46:02.840670Z" visited="2021-12-31T15:46:02.840666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:02.840668Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/config.h" added="2021-12-31T15:46:02.840677Z" modified="2021-12-31T15:46:02.840679Z" visited="2021-12-31T15:46:02.840678Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:02.840678Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/drw.h" added="2021-12-31T15:46:16.847008Z" modified="2021-12-31T15:46:16.847012Z" visited="2021-12-31T15:46:16.847009Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:16.847010Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/drw.c" added="2021-12-31T15:46:16.847020Z" modified="2021-12-31T15:46:16.847022Z" visited="2021-12-31T15:46:16.847020Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:16.847021Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/drw.o" added="2021-12-31T15:46:16.847027Z" modified="2021-12-31T15:46:16.847029Z" visited="2021-12-31T15:46:16.847027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:16.847028Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/dwm.1" added="2021-12-31T15:46:38.335202Z" modified="2021-12-31T15:46:38.335206Z" visited="2021-12-31T15:46:38.335202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-troff-man"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:38.335204Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/dwm.c.lukesbak_with_mykeybindings" added="2021-12-31T15:46:38.335216Z" modified="2021-12-31T15:46:38.335219Z" visited="2021-12-31T15:46:38.335216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:38.335217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/dwm.c" added="2021-12-31T15:46:38.335223Z" modified="2021-12-31T15:46:38.335225Z" visited="2021-12-31T15:46:38.335223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:38.335224Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/dwm.c.orig" added="2021-12-31T15:46:38.335228Z" modified="2021-12-31T15:46:38.335230Z" visited="2021-12-31T15:46:38.335228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:38.335229Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/dwm.o" added="2021-12-31T15:46:38.335233Z" modified="2021-12-31T15:46:38.335235Z" visited="2021-12-31T15:46:38.335233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:38.335234Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/dwm-attachbottom-20201227-61bb8b2.diff" added="2021-12-31T15:46:59.586315Z" modified="2021-12-31T15:46:59.586319Z" visited="2021-12-31T15:46:59.586315Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:59.586317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/dwm-pertag-20200914-61bb8b2.diff" added="2021-12-31T15:46:59.586326Z" modified="2021-12-31T15:46:59.586330Z" visited="2021-12-31T15:46:59.586326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:59.586329Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/dwm-cursorwarp-mononly-20210222-61bb8b2.diff" added="2021-12-31T15:46:59.586336Z" modified="2021-12-31T15:46:59.586338Z" visited="2021-12-31T15:46:59.586336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:59.586337Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/dwm-statusallmons-6.2.diff" added="2021-12-31T15:46:59.586341Z" modified="2021-12-31T15:46:59.586342Z" visited="2021-12-31T15:46:59.586341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:59.586341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/larbs.mom" added="2021-12-31T15:46:59.586346Z" modified="2021-12-31T15:46:59.586349Z" visited="2021-12-31T15:46:59.586346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:46:59.586346Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/transient.c" added="2021-12-31T15:47:10.933035Z" modified="2021-12-31T15:47:10.933040Z" visited="2021-12-31T15:47:10.933036Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:47:10.933038Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/shiftview.c" added="2021-12-31T15:47:10.933051Z" modified="2021-12-31T15:47:10.933054Z" visited="2021-12-31T15:47:10.933051Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:47:10.933052Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/util.c" added="2021-12-31T15:47:10.933059Z" modified="2021-12-31T15:47:10.933061Z" visited="2021-12-31T15:47:10.933059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:47:10.933060Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/util.h" added="2021-12-31T15:47:10.933064Z" modified="2021-12-31T15:47:10.933066Z" visited="2021-12-31T15:47:10.933065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:47:10.933065Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/util.o" added="2021-12-31T15:47:10.933071Z" modified="2021-12-31T15:47:10.933075Z" visited="2021-12-31T15:47:10.933071Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-object"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:47:10.933072Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/vanitygaps.c" added="2021-12-31T15:47:10.933080Z" modified="2021-12-31T15:47:10.933085Z" visited="2021-12-31T15:47:10.933080Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:47:10.933082Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/LICENSE" added="2021-12-31T15:47:43.944649Z" modified="2021-12-31T15:47:43.944654Z" visited="2021-12-31T15:47:43.944650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:47:43.944652Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/README.md" added="2021-12-31T15:47:43.944665Z" modified="2021-12-31T15:47:43.944668Z" visited="2021-12-31T15:47:43.944666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:47:43.944667Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.local/src/dwm/.gitignore" added="2021-12-31T15:47:53.833081Z" modified="2021-12-31T15:47:53.833090Z" visited="2021-12-31T15:47:53.833082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T15:47:53.833084Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.config/mpv/input.conf" added="2021-12-31T19:36:15.044848Z" modified="2021-12-31T19:36:15.044854Z" visited="2021-12-31T19:36:15.044849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T19:36:15.044850Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/.config/mpv/mpv.conf" added="2021-12-31T19:36:15.044873Z" modified="2021-12-31T19:36:15.044896Z" visited="2021-12-31T19:36:15.044878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2021-12-31T19:36:15.044890Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/12.28-openwrt-rockchip-armv8-nanopi-r2s-squashfs-sysupgrade.img.gz" added="2022-01-01T09:00:37.518151Z" modified="2022-01-01T09:00:37.518156Z" visited="2022-01-01T09:00:37.518152Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/gzip"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-01T09:00:37.518154Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/voxlogo.webp" added="2022-01-01T22:19:08.510174Z" modified="2022-01-01T22:19:22.138143Z" visited="2022-01-01T22:19:08.510175Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-01T22:19:08.510177Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-01-01T22:19:22.138141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/Youtube_logo_PNG2.png" added="2022-01-02T08:26:32.931493Z" modified="2022-01-02T08:26:32.931497Z" visited="2022-01-02T08:26:32.931493Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-02T08:26:32.931495Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/inner-freedom-serenity.jpg" added="2022-01-02T08:52:00.694854Z" modified="2022-01-02T08:52:17.372365Z" visited="2022-01-02T08:52:00.694855Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-02T08:52:00.694856Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-01-02T08:52:17.372363Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/Karaoke%20night.webp" added="2022-01-02T09:02:43.049085Z" modified="2022-01-02T09:02:53.051820Z" visited="2022-01-02T09:02:43.049085Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-02T09:02:43.049086Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-01-02T09:02:53.051819Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Pictures/wall/2064992.png" added="2022-01-02T09:13:34.986435Z" modified="2022-01-02T09:13:34.986438Z" visited="2022-01-02T09:13:34.986436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-01-02T09:13:34.986437Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/wp2234539-coding-wallpapers.jpg" added="2022-01-02T09:21:01.766643Z" modified="2022-01-02T09:21:01.766647Z" visited="2022-01-02T09:21:01.766643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-02T09:21:01.766645Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/wp2234608-coding-wallpapers.jpg" added="2022-01-02T09:21:06.458104Z" modified="2022-01-02T09:21:06.458108Z" visited="2022-01-02T09:21:06.458105Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-02T09:21:06.458106Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/wp2234692-coding-wallpapers.png" added="2022-01-02T09:21:11.609968Z" modified="2022-01-02T09:21:11.609971Z" visited="2022-01-02T09:21:11.609968Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-02T09:21:11.609969Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///wall" added="2022-01-02T09:22:10.856932Z" modified="2022-01-02T09:22:10.856934Z" visited="2022-01-02T09:22:10.856933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-01-02T09:22:10.856933Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Pictures/wall/wp2234692-coding-wallpapers.png" added="2022-01-02T09:22:35.505953Z" modified="2022-01-02T09:22:35.505956Z" visited="2022-01-02T09:22:35.505954Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-01-02T09:22:35.505955Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cv/Downloads/Session-3-Verifying-SSD-Sanitization_Micron_Toshiba_Final-as-of-4.26.pdf" added="2022-01-04T12:44:30.375427Z" modified="2022-01-04T12:44:30.375431Z" visited="2022-01-04T12:44:30.375428Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreWolf" exec="&apos;librewolf %u&apos;" modified="2022-01-04T12:44:30.375429Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

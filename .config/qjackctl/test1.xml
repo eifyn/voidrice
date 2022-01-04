@@ -1,0 +1,22 @@
+<!DOCTYPE patchbay>
+<patchbay name="test1" version="0.9.2">
+ <output-sockets>
+  <socket name="system 1" type="jack-audio" client="system" exclusive="off">
+   <plug>capture_1</plug>
+   <plug>capture_2</plug>
+   <plug>capture_3</plug>
+   <plug>capture_4</plug>
+  </socket>
+ </output-sockets>
+ <input-sockets>
+  <socket name="system 1" type="jack-audio" client="system" exclusive="off">
+   <plug>playback_1</plug>
+   <plug>playback_2</plug>
+   <plug>playback_3</plug>
+   <plug>playback_4</plug>
+  </socket>
+ </input-sockets>
+ <slots/>
+ <cables/>
+</patchbay>
+

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# This script starts libinput for Apple Magic Trackpad automatically.
+
+libinput-gestures-setup start

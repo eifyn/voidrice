@@ -1,0 +1,59 @@
+#!/bin/sh
+
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
+
+# Use $XINITRC variable if file exists.
+[ -f "$XINITRC" ] && alias startx="startx $XINITRC"
+
+# sudo not required for some system commands
+# for command in mount umount sv pacman updatedb su shutdown poweroff reboot ; do
+# 	alias $command="sudo $command"
+# done; unset command
+
+# Verbosity and settings that you pretty much just always are going to want.
+alias \
+	cp="rsync -av --progress" \
+	mv="mv -iv" \
+	rm="rm -vI" \
+	bc="bc -ql" \
+	ls="exa -l --color=automatic --icons --group-directories-first" \
+	ll="exa --all --long --header --color=automatic --icons --group-directories-first" \
+	la="exa --all --long --header --inode --tree --level=3 --color=automatic --icons --group-directories-first" \
+	mkd="mkdir -pv" \
+	yf="ytfzf" \
+	yt="yt-dlp -vc --embed-subs --write-auto-subs --sub-langs zh-Hans,en" \
+	ffmpeg="ffmpeg -hide_banner"
+
+# Colorize commands when possible.
+alias \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi"
+
+# These common commands are just too long! Abbreviate them.
+alias \
+	ka="killall" \
+	k="lf $HOME/Music/Karaoke" \
+	loc="locate" \
+	g="git" \
+	gc="git clone" \
+	mirror="sudo reflector --verbose --latest 10 --sort rate --save /etc/pacman.d/mirrorlist" \
+        grub="sudo grub-mkconfig -o /boot/grub/grub.cfg" \
+	trem="transmission-remote" \
+	sdn="shutdown -h now" \
+	e="$EDITOR" \
+	p="yay" \
+	sp="sudo pacman" \
+	smi="sudo make install" \
+	U="sudo pacman -Syu" \
+        s="systemctl" \
+        j="journalctl -xe" \
+	z="zathura" \
+        1="ssh root@45.32.158.73" \
+        2="ssh root@45.32.86.66"
+
+alias \
+	magit="nvim -c MagitOnly" \
+	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc" \
+	weath="less -S ${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" \

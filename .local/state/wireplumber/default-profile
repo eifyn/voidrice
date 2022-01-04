@@ -1,0 +1,9 @@
+[default-profile]
+alsa_card.pci-0000_26_00.1=off
+alsa_card.usb-BEHRINGER_UMC404HD_192k-00=pro-audio
+alsa_card.pci-0000_28_00.4=output:analog-stereo+input:analog-stereo
+alsa_card.pci-0000_08_00.1=off
+alsa_card.pci-0000_0a_00.4=off
+bluez_card.CC_98_8B_31_41_80=a2dp-sink-ldac
+alsa_card.pci-0000_09_00.1=off
+alsa_card.pci-0000_0b_00.4=off

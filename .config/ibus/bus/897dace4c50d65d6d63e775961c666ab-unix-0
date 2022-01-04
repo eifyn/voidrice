@@ -1,0 +1,3 @@
+IBUS_ADDRESS=unix:abstract=/tmp/dbus-kmhn1VRijv,guid=a59ec412a01a1bc447e6355a61d464e7,fcitx_random_string=7c14e9e6c354417cb12ed02de6e3da26
+IBUS_DAEMON_PID=794
+
