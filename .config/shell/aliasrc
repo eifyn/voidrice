@@ -13,14 +13,14 @@
 
 # Verbosity and settings that you pretty much just always are going to want.
 alias \
-	cp="rsync -av --progress" \
+	rs="rsync -av --progress" \
 	mv="mv -iv" \
 	rm="rm -vI" \
 	bc="bc -ql" \
 	ls="exa -l --color=automatic --icons --group-directories-first" \
 	ll="exa --all --long --header --color=automatic --icons --group-directories-first" \
 	la="exa --all --long --header --inode --tree --level=3 --color=automatic --icons --group-directories-first" \
-	mkd="mkdir -pv" \
+	md="mkdir -pv" \
 	yf="ytfzf" \
 	yt="yt-dlp -vc --embed-subs --write-auto-subs --sub-langs zh-Hans,en" \
 	ffmpeg="ffmpeg -hide_banner"
@@ -38,7 +38,7 @@ alias \
 	loc="locate" \
 	g="git" \
 	gc="git clone" \
-	mirror="sudo reflector --verbose --latest 10 --sort rate --save /etc/pacman.d/mirrorlist" \
+	mirror="sudo reflector --verbose --country 'United States' --protocol https --latest 5 --sort rate --save /etc/pacman.d/mirrorlist" \
         grub="sudo grub-mkconfig -o /boot/grub/grub.cfg" \
 	trem="transmission-remote" \
 	sdn="shutdown -h now" \
@@ -50,8 +50,8 @@ alias \
         s="systemctl" \
         j="journalctl -xe" \
 	z="zathura" \
-        1="ssh root@45.32.158.73" \
-        2="ssh root@45.32.86.66"
+        1="ssh root@66.42.67.249" \
+        2="ssh root@149.248.16.231"
 
 alias \
 	magit="nvim -c MagitOnly" \

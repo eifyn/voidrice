@@ -7,6 +7,7 @@ algif_hash
 algif_skcipher
 ansi_cprng
 apple_mfi_fastcharge
+asus_wmi
 autofs4
 blake2b_generic
 bluetooth
@@ -39,6 +40,7 @@ drm_kms_helper
 ecc
 ecdh_generic
 edac_mce_amd
+eeepc_wmi
 efi_pstore
 efivarfs
 ext4
@@ -76,6 +78,7 @@ joydev
 k10temp
 kvm
 kvm_amd
+ledtrig_audio
 libahci
 libarc4
 libcrc32c
@@ -90,6 +93,7 @@ minix
 mousedev
 msdos
 nct6775
+nls_ascii
 ntfs
 nvidiafb
 nvme
@@ -97,6 +101,7 @@ nvme_core
 parport
 parport_pc
 pinctrl_amd
+platform_profile
 ppdev
 qnx4
 r8169
@@ -110,7 +115,9 @@ rng_core
 sch_fq_codel
 snd
 snd_hda_codec
+snd_hda_codec_generic
 snd_hda_codec_hdmi
+snd_hda_codec_realtek
 snd_hda_core
 snd_hda_intel
 snd_hrtimer
@@ -130,10 +137,15 @@ snd_usb_audio
 snd_usbmidi_lib
 soundcore
 sp5100_tco
+sparse_keymap
 sr_mod
 syscopyarea
 sysfillrect
 sysimgblt
+tpm
+tpm_crb
+tpm_tis
+tpm_tis_core
 uas
 ufs
 uhid
@@ -144,6 +156,7 @@ usbmouse
 usb_storage
 vfat
 vgastate
+video
 wmi
 wmi_bmof
 xfs
@@ -151,3 +164,4 @@ xhci_pci
 xhci_pci_renesas
 xor
 x_tables
+zenpower

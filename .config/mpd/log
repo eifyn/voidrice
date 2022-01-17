@@ -106,3 +106,62 @@ Jan 04 13:30 : exception: Failed to access /home/cv/Music/iTunes/Music: No such 
 Jan 04 15:16 : exception: Failed to access /home/cv/Music/iTunes/Archive Ch: No such file or directory
 Jan 04 15:16 : exception: Failed to access /home/cv/Music/iTunes/FLAC: No such file or directory
 Jan 04 15:16 : exception: Failed to access /home/cv/Music/iTunes/Music: No such file or directory
+Jan 05 13:11 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 05 21:38 : exception: Failed to access /home/cv/Music/iTunes/Music: No such file or directory
+Jan 05 21:38 : exception: Failed to access /home/cv/Music/iTunes/Archive Ch: No such file or directory
+Jan 05 21:38 : exception: Failed to access /home/cv/Music/iTunes/FLAC: No such file or directory
+Jan 06 10:57 : exception: Failed to access /home/cv/Music/iTunes/Music: No such file or directory
+Jan 06 10:57 : exception: Failed to access /home/cv/Music/iTunes/Archive Ch: No such file or directory
+Jan 06 10:57 : exception: Failed to access /home/cv/Music/iTunes/FLAC: No such file or directory
+Jan 06 12:26 : inotify: music directory was removed - cannot continue to watch it
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/14 - Brand New Tennessee Waltz.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/13 - Blessed Are....flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/12 - I Pity The Poor Immigrant.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/11 - Love Is Just A Four Letter Word.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/10 - There But For Fortune.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/09 - Let It BE.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/08 - Heaven Help Us All.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/07 - We Shall Overcome.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/06 - Pack Up Your Sorrows.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/05 - Help Me Make It Through The Night.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/04 - The Dangling Conversation.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/03 - Farewell Angelina.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/02 - The Night They Drove Old Dixie Down.flac
+Jan 06 12:26 : update: removing Joan Baez - The Best Of The Vanguard Years (2005 remaster) [FLAC]/01 - It's All Over Now, Baby Blue.flac
+Jan 06 16:03 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 06 21:15 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 06 21:58 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 06 22:39 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 06 23:49 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 07 00:07 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 07 00:18 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 07 00:45 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 08 12:59 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 09 07:24 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 09 07:30 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 10 17:30 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 10 17:42 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 10 17:44 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 11 07:24 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 11 08:16 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 11 08:18 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 11 08:41 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 12 07:23 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 12 08:01 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 13 07:04 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 13 09:02 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 13 09:06 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 13 09:26 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 13 09:33 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 13 19:18 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 14 23:32 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 14 23:41 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 15 07:28 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 15 23:51 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 16 00:52 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 16 08:46 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 16 09:33 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 16 09:36 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 16 09:39 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 16 10:02 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 17 15:24 : exception: inotify_add_watch() has failed: No such file or directory

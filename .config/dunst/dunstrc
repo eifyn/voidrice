@@ -6,7 +6,7 @@
     notification_limit = 5
     origin = top-right
     offset = 170x140
-    transparency = 10
+    transparency = 0
     padding = 8
     horizontal_padding = 8
     frame_width = 2
